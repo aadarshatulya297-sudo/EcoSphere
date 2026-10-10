@@ -1,5 +1,7 @@
 # 🌱 EcoSphere — ESG Management Platform
 
+![EcoSphere](eco-sphere-dashboard1.png)
+
 EcoSphere is an ESG (Environmental, Social, and Governance) Management Platform designed to help organizations monitor sustainability performance, track environmental impact, manage social responsibility activities, and improve governance through an interactive dashboard.
 
 ## 🌐 Live Demo
